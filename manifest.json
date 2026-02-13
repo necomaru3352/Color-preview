@@ -1,9 +1,9 @@
 {
   "id": "color-preview",
-  "name": "Auto Color Preview",
+  "name": "Color Preview",
   "version": "1.0.0",
   "minAppVersion": "0.15.0",
   "description": "Show color squares next to hex/rgb/hsl codes automatically.",
-  "author": "Your Name",
+  "author": "necomaru",
   "isDesktopOnly": false
 }
